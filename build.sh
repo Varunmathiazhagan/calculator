@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Variables
-IMAGE_NAME="varun4546/final0"
+IMAGE_NAME="varun4546/final"
 TAG="latest"
 
 # Build Docker image
