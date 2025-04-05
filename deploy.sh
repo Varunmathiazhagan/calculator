@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Set Docker image name, tag, and container name
-IMAGE_NAME="varun4546/final0"
+IMAGE_NAME="varun4546/final"
 TAG="latest"
 CONTAINER_NAME="react-app"
 
